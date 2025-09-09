@@ -1,6 +1,5 @@
 #include <cmath>
 #include <iostream>
-
 int main() {
 double start, end, step;
 std::cout << "Введите начальное значение x: ";
